@@ -1,5 +1,5 @@
 # Land-Surface-Temperatrue-Landsat-GEE
-Land Surface Temperature (LST) data derived from Landsat imagery, which can be analyzed using Google Earth Engine (GEE)
+Land Surface Temperature (LST) data derived from Landsat imagery, which can be analyzed using Google Earth Engine (GEE).
 ![image](https://github.com/LocNguyenTKP/Land-Surface-Temperatrue-Landsat-GEE/assets/66542803/f68f7e85-468b-43cc-b721-3da8a7a3c1e3)
 
 ## Overview
